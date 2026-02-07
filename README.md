@@ -167,7 +167,7 @@ git clone https://github.com/<your-username>/QuizExamSystem.git
 </connectionStrings>
 ```
 ---
-### Bước 4: Chạy chương 
+### Bước 4: Chạy chương trình
 - Mở Program.cs
 - Nhấn F5
 ## Quy chuẩn Code (Coding Convention)
