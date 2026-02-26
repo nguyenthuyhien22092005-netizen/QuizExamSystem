@@ -195,10 +195,10 @@ git checkout -b feature-<ten-chuc-nang>
 
 ## Phân công chức năng
 
-| Thành viên   | Chức năng              |
-| ------------ | ---------------------- |
-| Thành viên 1 | Xác thực & Người dùng  |
-| Thành viên 2 | Quản lý môn học        |
-| Thành viên 3 | Quản lý câu hỏi        |
-| Thành viên 4 | Quản lý đề thi         |
-| Thành viên 5 | Kết quả & Thống kê     |
+| Thành viên             | Chức năng              |
+| ---------------------- | ---------------------- |
+| Trần Thị Khánh Linh    | Xác thực & Người dùng  |
+| Phạm Thu Ngân          | Quản lý môn học        |
+| Nguyễn Thúy Hiền       | Quản lý câu hỏi        |
+| Lê Thị Dịu             | Quản lý đề thi         |
+| Nguyễn Ngọc Khánh Bình | Kết quả & Thống kê     |
